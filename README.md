@@ -1,0 +1,86 @@
+## :key: Signing Keys
+
+I try to sign everything I can where possible. All commits, tags, and artifacts I create are signed with one of the following keys. Starting in 2023, I have begun signing commits with SSH keys (unless GPG is required).
+
+Public and official tools under the [BoxBoat](https://github.com/boxboat) or [IBM](https://github.com/IBM) name will be managed and released under their respective Organization.
+
+### SSH keys
+
+Fingerprint: `6rJjOoSg66PteGJIcpYID3Z87nBe9HddwU4RCenhep4`
+
+Public Key: [`id_ed25519.pub`](https://github.com/kyle-boxboat/kyle-boxboat/blob/main/id_ed25519.pub)
+
+<details>
+    <summary>Contents</summary>
+
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINwaVbBqc6ZyvIm7/BhRLnFVbWb4i4r9pgZqAUJoJaIL
+```
+
+</details>
+
+### GPG keys
+
+Fingerprint: `D32D8D63E99D5E830D22F54368D2F2DEC4C92964`
+
+Public Key: [`gpg.asc`](https://github.com/kyle-boxboat/kyle-boxboat/blob/main/gpg.asc)
+
+<details>
+    <summary>Contents</summary>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+vC9uaUM=
+=7RGz
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details> 
